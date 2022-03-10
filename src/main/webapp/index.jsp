@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World This is the  10.0  newsest test beta!</h2>
+<h2>Hello !! This is the beta! version of code </h2>
 </body>
 </html>
